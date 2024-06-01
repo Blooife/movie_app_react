@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1020627167980",
+    "project_id": "movie-app-d135a",
+    "storage_bucket": "movie-app-d135a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020627167980:android:11a279a5cd27e1072f53c9",
+        "android_client_info": {
+          "package_name": "com.company.moviesApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW05-nGWvVIvryMgVus2eCDig5hp8ZzMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020627167980:android:94e2e70f85f207092f53c9",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW05-nGWvVIvryMgVus2eCDig5hp8ZzMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020627167980:android:9fce99ba6a1e0ee02f53c9",
+        "android_client_info": {
+          "package_name": "com.example.shopkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW05-nGWvVIvryMgVus2eCDig5hp8ZzMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020627167980:android:15e7915c5093d7ce2f53c9",
+        "android_client_info": {
+          "package_name": "com.instamobile.firebaseStarterKit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW05-nGWvVIvryMgVus2eCDig5hp8ZzMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020627167980:android:cb0653fd91fe938b2f53c9",
+        "android_client_info": {
+          "package_name": "com.mycompany.cartnshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW05-nGWvVIvryMgVus2eCDig5hp8ZzMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
